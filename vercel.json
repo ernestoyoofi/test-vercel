@@ -3,6 +3,14 @@
     {
       "source": "/trakteer",
       "destination": "https://trakteer.id/ernestoyoofi"
+    },
+    {
+      "source": "/whatsapp",
+      "destination": "https://chat.whatsapp.com/EmDGEom0F8g8AaGtNJ1tGo"
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/ernestoyoofi"
     }
   ]
 }
